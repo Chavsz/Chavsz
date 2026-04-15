@@ -23,7 +23,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Chavsz&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### Thanks for visiting! If you like what you see, let's connect and build something awesome together. 🙌
+### Glad you stopped by! If what you see sparks your interest, let’s team up and create something amazing together.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ed2121,50:9e1b1b,100:1a0000&height=100&section=footer" width="100%"/>
 
