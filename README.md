@@ -14,7 +14,7 @@
 # 📊 GitHub Stats:
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chavsz&theme=tokyonight&hide_border=true&background=0D1117&stroke=FF2D55&ring=FF2D55&fire=FB923C&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888" height="175"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chavsz&theme=tokyonight&hide_border=true&background=0D1117&stroke=9e1b1b&ring=9e1b1b&fire=FB923C&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888" height="175"/>
 </div>
 
 ### ✍️ Random Dev Quote
