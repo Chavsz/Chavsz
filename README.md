@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=F21D1D&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+Chavy+%F0%9F%91%8B;Full-Stack+Developer+%7C+Database+Developer;React+%2B+TypeScript+is+my+love+language+%F0%9F%92%99;Turning+ideas+into+products%2C+one+commit+at+a+time+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=F21D1D&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+Chavy+%F0%9F%91%8B;Full-Stack+Developer+%7C+Database+Developer;)](https://git.io/typing-svg)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F58442,50:E61C1C,100:D90404&height=180&section=header&text=Chavy%20Martin%20B.%20Tapuyao&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20JavaScript%20%2F%20TypeScript%20%2F%20React&descAlignY=52&descSize=15" width="100%"/>
 
