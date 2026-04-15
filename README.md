@@ -1,3 +1,19 @@
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=007AFF&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+Chavy+%F0%9F%91%8B;Full-Stack+Developer+%7C+JS+Enthusiast;React+%2B+TypeScript+is+my+love+language+%F0%9F%92%99;Turning+ideas+into+products%2C+one+commit+at+a+time+%F0%9F%9A%80)](https://git.io/typing-svg)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:007AFF,50:004A99,100:5AC8FA&height=180&section=header&text=ChavyMartin%20B.%20Tapuyao&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20JavaScript%20%2F%20TypeScript%20%2F%20React&descAlignY=52&descSize=15" width="100%"/>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=veegestable&color=007AFF&style=flat-square&label=Profile+Views" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Role-Full--Stack%20Developer-007AFF?style=flat-square&logo=code&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Open%20To-Collaborate-007AFF?style=flat-square&logo=handshake&logoColor=white" />
+</p>
+
+</div>
+
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Chavsz.Chavsz" />
 
 ## 🌐 Socials:
