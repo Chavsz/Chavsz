@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F58442,50:E61C1C,100:D90404&height=180&section=header&text=Chavy%20Martin%20B.%20Tapuyao&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F58442,50:E61C1C,100:D90404&height=180&section=header&text=Chavy%20Martin%20B.%20Tapuyao&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20J" width="100%"/>
 
 </div>
 
