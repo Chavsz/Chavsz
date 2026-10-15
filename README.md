@@ -18,6 +18,11 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=chavsz&theme=tokyonight&hide_border=true&background=0D1117&stroke=9e1b1b&ring=9e1b1b&fire=FB923C&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888" height="175"/>
 </div>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=chavsz&show_icons=true&hide_border=true&bg_color=0D1117&title_color=ed2121&icon_color=ed2121&text_color=FFFFFF&ring_color=9e1b1b&count_private=true" height="175"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chavsz&layout=compact&hide_border=true&bg_color=0D1117&title_color=ed2121&text_color=FFFFFF&langs_count=8" height="175"/>
+</div>
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
