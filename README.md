@@ -15,6 +15,8 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=Chavsz&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Chavsz&theme=vision-friendly-dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=xbryan25&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=chavsz&theme=tokyonight&hide_border=true&background=0D1117&stroke=9e1b1b&ring=9e1b1b&fire=FB923C&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888" height="175"/>
